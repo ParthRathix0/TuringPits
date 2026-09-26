@@ -20,7 +20,7 @@ It feels like a Web2 live stream; it settles like a trustless contract.
 ```
                               ┌──────────────────────────────────────────┐
                               │  server (Sequencer)                      │
-predictors ──CHIP stake──►    │  • drives the deterministic moderator    │
+predictors ─ CHIP stake──►    │  • drives the deterministic moderator    │
         │                     │  • per turn → 0G Compute (TEE inference) │
         │                     │  • streams turns to the UI (WebSocket)   │
         ▼                     └───────────────┬──────────────────────────┘
